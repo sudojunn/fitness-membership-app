@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Фитнес-центр</string>
+    <string name="dashboard_title">Состояние зала</string>
+    <string name="center_value">Центр: %1$s</string>
+    <string name="active_visits">Активные посещения: %1$d из %2$d</string>
+    <string name="membership_valid">Абонемент: действителен</string>
+    <string name="membership_invalid">Абонемент: недействителен</string>
+    <string name="start_visit">Начать посещение</string>
+    <string name="expire_membership">Аннулировать абонемент</string>
+    <string name="renew_membership">Продлить абонемент</string>
+    <string name="error_membership_invalid">Нельзя начать посещение: абонемент недействителен</string>
+    <string name="error_capacity_reached">Нельзя начать посещение: зал заполнен</string>
+    <string name="last_operation_none">Последняя операция: отсутствует</string>
+    <string name="last_operation_visit_started">Последняя операция: посещение начато</string>
+    <string name="last_operation_membership_expired">Последняя операция: абонемент аннулирован</string>
+    <string name="last_operation_membership_renewed">Последняя операция: абонемент продлён</string>
+</resources>
